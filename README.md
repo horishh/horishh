@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @horishh
+- 👋 Hi, I’m Horie Kyazimova
 - 👀 I’m interested in Css, html and javascript
 - 🌱 I’m currently learning javascript
 
